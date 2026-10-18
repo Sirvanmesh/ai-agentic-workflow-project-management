@@ -1,0 +1,4 @@
+Prompt: What is the Capital of France?
+Response: The capital of France is Paris.
+
+Knowledge source: the DirectPromptAgent sends the prompt as a single user message, with no system prompt, persona or extra knowledge. The answer therefore comes only from the general knowledge the gpt-3.5-turbo model learned during its training.

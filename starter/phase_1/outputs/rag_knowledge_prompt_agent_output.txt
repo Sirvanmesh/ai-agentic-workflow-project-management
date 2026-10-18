@@ -1,0 +1,8 @@
+Knowledge split into 2 chunks; embeddings computed for 2 chunks.
+Prompt: What is the podcast that Clara hosts about?
+Response: Dear students,
+
+The podcast that Clara hosts is called "Crosscurrents." It is a show that explores the intersection of science, culture, and ethics. Each week, Clara interviews researchers, engineers, artists, and activists from various fields, ranging from marine ecologists and AI ethicists to digital archivists preserving endangered languages. The topics covered in the podcast include brain-computer interfaces, neuroplasticity, climate migration, LLM prompt engineering, decentralized identity, indigenous knowledge systems, and more. Clara's podcast aims to delve into diverse and thought-provoking discussions that highlight the connections between different disciplines and perspectives.
+
+Best regards,
+[Your Name]
